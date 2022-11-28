@@ -1,2 +1,2 @@
-# script-sql
+# sistema-cadastro-de-clientes
 em-desenvolvimento
